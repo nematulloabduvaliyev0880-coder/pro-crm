@@ -2,6 +2,9 @@
 
 Zamonaviy, to‘liq ishlaydigan CRM tizimi — React, Vite, Tailwind CSS, React Router, Lucide va Recharts yordamida yaratilgan. Barcha ma’lumotlar brauzerning LocalStorage’ida saqlanadi va sahifa yangilanganda yo‘qolmaydi.
 
+**Demo:** https://nematulloabduvaliyev0880-coder.github.io/pro-crm/
+**GitHub:** https://github.com/nematulloabduvaliyev0880-coder/pro-crm
+
 ## ✨ Imkoniyatlar
 
 - **10 ta sahifa:** Dashboard, Mijozlar, Buyurtmalar, Xodimlar, Mahsulotlar, Savdo, To‘lovlar, Vazifalar, Hisobotlar, Sozlamalar.
